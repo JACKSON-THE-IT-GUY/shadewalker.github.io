@@ -5,7 +5,7 @@ A simple C++ program that prints a custom message to the console.
 
 ## Description
 
-This is my first GitHub project as SHADEWALKER — it prints a greeting from the shadows.
+This is my first GitHub project as SHADEWALKER — it prints  greetings, SHADE WALKER!
 
 ## How to Run
 
@@ -15,4 +15,4 @@ This is my first GitHub project as SHADEWALKER — it prints a greeting from the
    ```bash
    g++ main.cpp -o run
 ./run
-Greetings, THE SHADOWWALKER!
+Greetings, SHADE WALKER!
